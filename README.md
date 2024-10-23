@@ -1,4 +1,4 @@
-# **Rinterio**
+# **Project Name: Rinterio**
 ## **Description**
 **Rinterio** is a real estate website that allows users to design, buy, and sell homes. It showcases team details and includes a contact section, ensuring a comprehensive user experience.
 
